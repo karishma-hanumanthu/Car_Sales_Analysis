@@ -43,7 +43,7 @@ The Power BI dashboard is designed to present car sales data in a colorful, inte
 -  **Accidental Status** breakdown (Yes/No)
 -  Bar/Pie charts showing category-wise counts
 
-## Pandas
+## Python 
 
 1. Exploration & Preprocessing
 2. Visual Insights (using Pandas)
