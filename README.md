@@ -20,8 +20,6 @@ Used SQL features like:
 - `Z-Score` logic to detect price outliers  
 - Year-on-year market share & accident rate by state
 
-[SQL Queries](`car_sales_analysis_queries.sql`)
-
 ## Power BI dashboard
 
 The Power BI dashboard is designed to present car sales data in a colorful, interactive, and user-friendly format across three pages: Overview, Brand Insights, and Car Characteristics.
@@ -45,20 +43,6 @@ The Power BI dashboard is designed to present car sales data in a colorful, inte
 -  **Accidental Status** breakdown (Yes/No)
 -  Bar/Pie charts showing category-wise counts
 
-### Dashboard Screenshots
-
-**1. Overview Page**  
-[Dashboard Overview](`Dashboard%20overview.png`)
-
-**2. Brand Insights Page**  
-[Brand Insights](`Brand%20Insights.png`)
-
-**3. Car Characteristics Page**  
-[Car Characteristics](`Car%20Charatersitics.png`)
-
-
-[Power_BI Dashboard](`Car_Sales_Analysis_Dashboard.pbix`)
-
 ## Pandas
 
 1. Exploration & Preprocessing
@@ -66,9 +50,7 @@ The Power BI dashboard is designed to present car sales data in a colorful, inte
 3. Machine Learning: Price Prediction
      - **Model**: Linear Regression (Baseline)
      - **Target Variable**: `price_inr`
-
-[Exploratory Analysis, Preprocessing and Price Prediction](`Car_Sales_Analysis_and_Price_Prediction.ipynb`)
-
+       
 ##  Key Insights
 
 -  Maruti, Hyundai, and Tata dominate in number of cars sold.
