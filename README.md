@@ -43,9 +43,42 @@ The Power BI dashboard is designed to present car sales data in a colorful, inte
 -  **Transmission Type** distribution (Manual vs Automatic)
 -  **Car Age** visualizations
 -  **Accidental Status** breakdown (Yes/No)
--  Bar/Pie charts showing category-wise counts 
+-  Bar/Pie charts showing category-wise counts
+
+### Dashboard Screenshots
+
+**1. Overview Page**  
+[Dashboard Overview](`Dashboard%20overview.png`)
+
+**2. Brand Insights Page**  
+[Brand Insights](`Brand%20Insights.png`)
+
+**3. Car Characteristics Page**  
+[Car Characteristics](`Car%20Charatersitics.png`)
+
 
 [Power_BI Dashboard](`Car_Sales_Analysis_Dashboard.pbix`)
+
+## Pandas
+
+1. Exploration & Preprocessing
+2. Visual Insights (using Pandas)
+3. Machine Learning: Price Prediction
+     - **Model**: Linear Regression (Baseline)
+     - **Target Variable**: `price_inr`
+
+[Exploratory Analysis, Preprocessing and Price Prediction](`Car_Sales_Analysis_and_Price_Prediction.ipynb`)
+
+##  Key Insights
+
+-  Maruti, Hyundai, and Tata dominate in number of cars sold.
+-  Accident rate highest in Maharashtra.
+-  Diesel and manual transmission are still preferred combinations.
+-  Car price depreciates consistently with age.
+-  Top-selling variants vary drastically by state and brand.
+
+
+
 
 
 
