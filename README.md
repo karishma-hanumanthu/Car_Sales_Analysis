@@ -1,6 +1,6 @@
 # Car_Sales_Analysis
 
-An end-to-end **data analytics** and **visualization** project using **SQL**, **Power BI**, and **Python (Pandas, Matplotlib, Machine Learning)** to analyze car sales in India.  
+An end-to-end **data analytics** and **visualization** project using **SQL**, **Power BI**, and **Python (Pandas, Matplotlib)** to analyze car sales in India.  
 The project identifies market trends, top-selling car variants, accident risks, and predicts car prices using regression.
 
 ## Project Summary
