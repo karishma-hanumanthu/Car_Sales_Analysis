@@ -9,7 +9,7 @@ The project identifies market trends, top-selling car variants, accident risks, 
 |-------------------|-----------------------------------------------------------------------------|
 |  SQL (MSSQL)      | Advanced queries using CTEs, window functions, CASE logic                   |
 |  Power BI         | Interactive dashboard                                                       |
-|  Python           | Data Cleaning, Data visualization and Car price prediction using regression |                                           
+|  Pandas           | Data Cleaning, Data visualization |                                           
 
 ## SQL Highlights
 
@@ -46,10 +46,7 @@ The Power BI dashboard is designed to present car sales data in a colorful, inte
 ## Python 
 
 1. Exploration & Preprocessing
-2. Visual Insights (using Pandas)
-3. Machine Learning: Price Prediction
-     - **Model**: Linear Regression (Baseline)
-     - **Target Variable**: `price_inr`
+2. Visual Insights (using Pandas)`
        
 ##  Key Insights
 
